@@ -2,7 +2,7 @@
 title: "[自作キーボード] 30%キーボードのキーマップについて"
 emoji: "👏"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["自作キーボード", "30%", "キーマップ"]
+topics: ["自作キーボード", "keyboard", "キーマップ", "キー配列"]
 published: false
 ---
 
@@ -66,13 +66,13 @@ https://docs.dailycraft.jp/keyboards/claw44/keymap.html
 
 ## レイヤー2 (移動/数字)
 
-![](/images/try-keymap-for-30percent-kbd/layer-2.webp)
+![alt text](/images/try-keymap-for-30percent-kbd/layer-2.webp)
 レイヤー2は移動/数字レイヤーです
 数字キーの配置には当時「なるほど そうすればよかったんだ…」と感動した記憶があります。コピペも一緒に使いたいことがあるためスキマに配置しています。
 
 ## レイヤー3 (ファンクション/メディア)
 
-![](/images/try-keymap-for-30percent-kbd/layer-3.webp)
+![alt text](/images/try-keymap-for-30percent-kbd/layer-3.webp)
 レイヤー3はファンクション/メディアレイヤーです。
 画面共有するときに拡大したいシーンがあるためセットで配置したりしています。右側のファンクションは置いているもののF11, 12あたりしか使っていないため練り直す余地があります。
 
