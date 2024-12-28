@@ -3,7 +3,7 @@ title: "[自作キーボード] 30%キーボードのキーマップについて
 emoji: "⌨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["自作キーボード", "keyboard", "キーマップ", "キー配列"]
-published: false
+published: true
 ---
 
 ※この記事は[しずかなインターネット](https://sizu.me/dawne/posts/b5akh175kv72)に投稿したものを加筆修正したものです
@@ -73,7 +73,7 @@ https://docs.dailycraft.jp/keyboards/claw44/keymap.html
 ## レイヤー3 (ファンクション/メディア)
 
 ![alt text](/images/try-keymap-for-30percent-kbd/layer-3.webp)
-レイヤー3はファンクション/メディアレイヤーです。
+レイヤー3はファンクション/メディアレイヤーです
 画面共有するときに拡大したいシーンがあるためセットで配置したりしています。右側のファンクションは置いているもののF11, 12あたりしか使っていないため練り直す余地があります。
 
 # 終わりに
