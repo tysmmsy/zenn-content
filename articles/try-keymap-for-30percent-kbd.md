@@ -1,6 +1,6 @@
 ---
 title: "[自作キーボード] 30%キーボードのキーマップについて"
-emoji: "👏"
+emoji: "⌨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["自作キーボード", "keyboard", "キーマップ", "キー配列"]
 published: false
